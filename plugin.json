@@ -1,0 +1,10 @@
+{
+  "name": "Legion Control",
+  "author": "Mc_Duck",
+  "flags": ["root"],
+  "publish": {
+    "tags": ["root"],
+    "description": "A plugin for enabling and controlling charge limit",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}
