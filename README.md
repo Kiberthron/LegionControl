@@ -1,6 +1,6 @@
 # ⚡ Legion Control for Decky Loader
 
-> A lightweight, feature-rich Decky Loader plugin designed for **Lenovo Legion Go** handhelds to manage hardware controls, vibration profiles, touchpad haptics, and RGB lighting directly from the SteamOS Quick Access Menu (QAM).
+> A lightweight, feature-rich Decky Loader plugin designed for **Lenovo Legion Go 2** handhelds to manage hardware controls, vibration profiles, touchpad haptics, and RGB lighting directly from the SteamOS Quick Access Menu (QAM).
 
 ---
 
@@ -19,5 +19,8 @@
 
 ## 🛠️ Requirements
 
-* Lenovo Legion Go handheld device running **SteamOS** .
+* Lenovo Legion Go 2 handheld device running **SteamOS** .
 * **Decky Loader** installed.
+---
+
+⚠️ **Compatibility Note:** Fully compatible with **Lenovo Legion Go 2**, with **experimental** support for **Legion Go** and **Legion Go S**.
